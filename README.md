@@ -1,7 +1,5 @@
 # 🧠 Diabetic Retinopathy Detection using Deep Learning (FastAPI Web App)
 
-![DR Banner](docs/flowchart.png)
-
 This is a complete end-to-end **deep learning web application** to detect **Diabetic Retinopathy** stages from retina images. It uses a trained **ResNet50** model, a clean **FastAPI backend**, and an HTML/CSS frontend. The project is easy to use, fully functional, and ready to deploy.
 
 > 🔬 **Diabetic Retinopathy (DR)** is a diabetes complication that affects eyes and can cause blindness if not diagnosed early.
@@ -62,11 +60,18 @@ DIABATIC_RETENOPHLYA_DETECTION/
 
 ## 🖼️ Screenshots
 
+### 🔹 flow-chart
+![Result Page](images/flowchart.png)
+
+### 🔹 After Pre-processing Images
+![Result Page](images/after_preprocess_images.png)
+
 ### 🔹 Upload Page
-![Upload Page](docs/upload.png)
+![Upload Page](images/1stpage.png)
 
 ### 🔹 Result Page
-![Result Page](docs/result.png)
+![Result Page](images/predictionpage.png)
+
 
 ---
 
