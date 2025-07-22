@@ -32,28 +32,7 @@ The model classifies input retina images into the following 5 classes:
 ---
 
 ## 📁 Project Structure
-DIABATIC_RETENOPHLYA_DETECTION/
-├── DR_model.h5
-├──DATASET_DIABATIC_RETENOPHLYA(dataset)/
-│   └── colored_images(all images in label folder)
-│   └── preprocessed_image_dir
-│   └── train.csv
-├──images/
-│   └── uplode_page.png
-│   └── flowchart.png
-│   └── prediction_page.png
-├── main.py
-├── train.py
-├── best_model.h5
-├── DR_resnet50.h5
-├── requirement.txt
-├── static/
-│   └── style.css
-├── templates/
-│   └── index.html
-│   └── result.html
-└── test_images/
-    └── {test image'...}
+![Result Page](images/Structure.png)
 
 
 ---
